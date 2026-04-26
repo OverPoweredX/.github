@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="612" height="240" src="https://nexla.dk/assets/files/img/brands/logo.png">
+  <img width="1000" height="1000" alt="OP" src="https://github.com/user-attachments/assets/92f597c4-d929-4610-895e-c240bacc718f" />
 </p>
 
 ## 👋 About us
