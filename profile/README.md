@@ -1,7 +1,8 @@
 <img width="250" height="250" alt="OP" src="https://github.com/user-attachments/assets/92f597c4-d929-4610-895e-c240bacc718f" />
 
 ## 👋 About us
-QBCore is an organization that provides open source code for the FiveM community. We pride ourselves on always advancing the way we develop and hope to pass that knowledge on to our community!
+OverPowered is a completed, builded, automatic fivem framework.
+Desired to build as much but going for les lag and more performence.
 
 ## 📚 Documentation
 https://docs.overpowered.org/
