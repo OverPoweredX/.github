@@ -2,7 +2,11 @@
 
 ## 👋 About us
 OverPoweredX is a completed, builded, automatic fivem framework.<br />
-Desired to build as much but going for les lag and more performence.
+Desired to build as much but going for les lag and more performence.<br />
+<b>OPX stands for:</b><br />
+O = Over<br />
+P = Powered<br />
+X = Extended
 
 ## 📚 Documentation
 https://docs.overpowered.org/
